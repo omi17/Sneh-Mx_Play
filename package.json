@@ -1,22 +1,22 @@
 {
-  "name": "Sneh-Mx_Play",
+  "name": "mxplayer-avi",
   "version": "1.2.0",
-  "description": "MXPlayer API Sneh",
+  "description": "MXPlayer API Avi",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techiesneh/Sneh-Mx_Play.git"
+    "url": "git+https://github.com/avipatilpro/MXPlayer_API.git"
   },
-  "keywords": [ MXPlayer, API, TechieSneh ],
-  "author": "Techie Sneh",
+  "keywords": [ MXPlayer, API, Aviapatil ],
+  "author": "Avishkar Patil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/avipatilpro/MXPlayer_API/issues"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/avipatilpro/MXPlayer_API#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
