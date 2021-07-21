@@ -1,0 +1,25 @@
+{
+  "name": "Sneh-Mx_Play",
+  "version": "1.2.0",
+  "description": "MXPlayer API Sneh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techiesneh/Sneh-Mx_Play.git"
+  },
+  "keywords": [ MXPlayer, API, TechieSneh ],
+  "author": "Techie Sneh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
