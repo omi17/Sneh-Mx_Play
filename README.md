@@ -27,14 +27,12 @@
 ***
 
 
-## 😈 Make Your :
-
 <h2>🍁 Where To Host : </h2>
 
 <h5 align="center"> Copy The index.php code and Run on LocalHost or Your Hosting</h5>
 
 
-### 😉 Thanks To
+## 😉 Thanks To
 • <a href="https://github.com/techiesneh">Techie Sneh</a><br>
 
 
