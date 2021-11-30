@@ -16,7 +16,7 @@
 ♢ Copy URL and Just Paste After Your link</h4>
 
 ```py
-   http://localhost/index.php/?c=MX_PLAYER_URL
+   https://Mxtry.omi17.repl.co/index.php/?c=MX_PLAYER_URL
 ```
 
   <h4>
